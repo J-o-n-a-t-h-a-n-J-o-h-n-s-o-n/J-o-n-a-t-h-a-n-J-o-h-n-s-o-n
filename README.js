@@ -1,4 +1,3 @@
-/*I’m interested in Javascript, CSS and HTML
-I’m currently learning Javascript*/
+/*HTML. CSS, JavaScript, Python, Java, SQL*/
 
 console.log("Prime is Good")
